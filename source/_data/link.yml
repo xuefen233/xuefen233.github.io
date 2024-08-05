@@ -51,31 +51,17 @@
     - name: DeviantArt
       link: https://www.deviantart.com/
       avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
-      descr: 绘图交流平台
+      descr: 艺术家展示各自作品并交流讨论而设计
 
-    - name: alphacoders
-      link: https://wall.alphacoders.com/?lang=Chinese
+    - name: Wallpaper Abyss
+      link: https://wall.alphacoders.com/
       avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
-      descr: 绘图交流平台
+      descr: Wallpaper and background
       
-    - name: 花狸猫
-      link: https://huamaobizhi.com/
-      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
-      descr: 绘图交流平台
-
-    - name: 极简壁纸
-      link: https://huamaobizhi.com/
-      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
-      descr: 绘图交流平台
-
-    - name: 简单壁纸
-      link: http://simpledesktops.com/browse/
-      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
-      descr: 绘图交流平台
-
     - name: 动漫图片壁纸
       link: https://anime-pictures.net/?lang=zh_CN
       avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
+      descr: 全年龄的动漫图片和壁纸
 
 - class_name: 同人声音
   class_desc: #介绍
