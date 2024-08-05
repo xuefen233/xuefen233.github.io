@@ -8,7 +8,45 @@
     - name: SM.MS
       link: https://smms.app/login
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 免费图床                           
+      descr: 免费图床    
+
+- class_name: 番剧影视
+  class_desc: 
+  link_list:
+    - name: Hanime1
+      link: https://hanime1.me/
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: 里番
+
+    - name: Spankbang
+      link: https://spankbang.com/
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: 在线
+
+    - name: JavDB
+      link: https://javdb.com
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: Jav磁力
+
+    - name: JavBus
+      link: https://javbus.com
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: Jav磁力
+
+    - name: Missav
+      link: https://missav.com
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: Jav在线
+
+    - name: Javmenu
+      link: https://javmenu.com/zh
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: Jav在线 
+
+    - name: Jable
+      link: https://jable.tv/
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+      descr: Jav在线      
 
 - class_name: 图片壁纸
   class_desc: #介绍
@@ -69,7 +107,7 @@
     - name: Asmr one #网站名称
       link: https://www.asmr.one/login #网站地址
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: #介绍
+      descr: 
 
     - name: Hentai ASMR
       link: https://www.hentaiasmr.moe/ 
