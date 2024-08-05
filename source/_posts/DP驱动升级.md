@@ -1,0 +1,7 @@
+---
+title: DP驱动升级
+date: 2024-08-05 09:56:14
+tags: 电脑相关
+---
+解决英伟达老显卡DP固件版本过低导致开机不显示BIOS的问题
+链接(https://www.nvidia.com/en-us/drivers/nv-uefi-update-x64)
