@@ -1,176 +1,181 @@
 - class_name: 实用工具
   class_desc: 那些人，那些事
   link_list:
-    - name: Hexo
-      link: https://butterfly.js.org/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 主题编辑教程
+    - name: Hexo #名称
+      link: https://butterfly.js.org/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 主题编辑教程 #介绍
     - name: SM.MS
       link: https://smms.app/login
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 免费图床    
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 免费图床 #介绍
 
 - class_name: 番剧影视
   class_desc: 
   link_list:
-    - name: Hanime
-      link: https://hanime1.me/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 里番
+    - name: Hanime #名称
+      link: https://hanime1.me/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 里番 #介绍
 
-    - name: Spankbang
-      link: https://spankbang.com/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 在线
+    - name: Spankbang #名称
+      link: https://spankbang.com/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 在线 #介绍
 
-    - name: JavDB
-      link: https://javdb.com
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: Jav磁力
+    - name: JavDB #名称
+      link: https://javdb.com #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Jav磁力 #介绍
 
-    - name: JavBus
-      link: https://javbus.com
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: Jav磁力
+    - name: JavBus #名称
+      link: https://javbus.com #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Jav磁力 #介绍
 
-    - name: Missav
-      link: https://missav.com
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: Missav #名称
+      link: https://missav.com #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: Jav在线
 
-    - name: Javmenu
-      link: https://javmenu.com/zh
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: Jav在线 
+    - name: Javmenu #名称
+      link: https://javmenu.com/zh #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Jav在线 #介绍
 
-    - name: Jable
-      link: https://jable.tv/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: Jav在线      
+    - name: Jable #名称
+      link: https://jable.tv/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Jav在线 #介绍
 
 - class_name: 图片壁纸
   class_desc: #介绍
   link_list:
-    - name: Pixiv
-      link: https://www.pixiv.net/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 绘图交流平台
+    - name: Pixiv #名称
+      link: https://www.pixiv.net/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 绘图交流平台 #介绍
 
-    - name: Kemono
-      link: https://kemono.party/artists
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 收集那些需要付费的内容
+    - name: Kemono #名称
+      link: https://kemono.party/artists #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 收集那些需要付费的内容 #介绍
       
-    - name: Coomer
-      link: https://kemono.party/artists
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 收集那些需要付费的内容
+    - name: Coomer #名称
+      link: https://kemono.party/artists #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 收集那些需要付费的内容 #介绍
 
-    - name: Nekohouse
-      link: https://kemono.party/artists
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: Kemono的精神续作
+    - name: Nekohouse #名称
+      link: https://kemono.party/artists #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Kemono的精神续作 #介绍
 
-    - name: Yandere
-      link: https://yande.re
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 绘图交流平台
+    - name: Yandere #名称
+      link: https://yande.re #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 绘图交流平台 #介绍
 
-    - name: Awesome
-      link: https://wallhaven.cc/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 绘图交流平台
+    - name: Awesome #名称
+      link: https://wallhaven.cc/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 绘图交流平台 #介绍
 
-    - name: Konachan
-      link: https://konachan.com/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 绘图交流平台
+    - name: Konachan #名称
+      link: https://konachan.com/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 绘图交流平台 #介绍
 
-    - name: DeviantArt
-      link: https://www.deviantart.com/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 艺术家展示各自作品并交流讨论而设计
+    - name: DeviantArt #名称
+      link: https://www.deviantart.com/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 艺术家展示各自作品并交流讨论而设计 #介绍
 
-    - name: Wallpaper Abyss
-      link: https://wall.alphacoders.com/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: Wallpaper and background
+    - name: Wallpaper Abyss #名称
+      link: https://wall.alphacoders.com/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Wallpaper and background #介绍
       
-    - name: 动漫图片壁纸
-      link: https://anime-pictures.net/?lang=zh_CN
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 全年龄的动漫图片和壁纸
+    - name: 动漫图片壁纸 #名称
+      link: https://anime-pictures.net/?lang=zh_CN #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 全年龄的动漫图片和壁纸 #介绍
 
 - class_name: 同人声音
   class_desc: #介绍
   link_list:
-    - name: Asmr one #网站名称
-      link: https://www.asmr.one/login #网站地址
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr:  R18ASMR
+    - name: Asmr one #名称
+      link: https://www.asmr.one/login #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr:  R18ASMR #介绍
 
-    - name: Hentai ASMR
-      link: https://www.hentaiasmr.moe/ 
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: R18ASMR
+    - name: Hentai ASMR #名称
+      link: https://www.hentaiasmr.moe/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: R18ASMR #介绍
 
-    - name: Japanese ASMR
-      link: https://japaneseasmr.com
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: R18ASMR
+    - name: Japanese ASMR #名称
+      link: https://japaneseasmr.com #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: R18ASMR #介绍
 
-    - name: JASMR
-      link: https://www.jasmr.net/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: R18ASMR
+    - name: JASMR #名称
+      link: https://www.jasmr.net/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: R18ASMR #介绍
 
 - class_name: 在线漫画
   class_desc: #介绍
   link_list:
-    - name: Tachiyomi #网站名称
-      link: https://tachiyomi.org/ #网站地址
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: Tachiyomi #名称
+      link: https://tachiyomi.org/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 漫画软件停更 #介绍
+
+    - name: Mihon #名称
+      link: https://mihon.app/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: Tachiyomi的精神续作 #介绍
+
+    - name: NoyAcg #名称
+      link: https://noy.asia/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: #介绍
 
-    - name: NoyAcg
-      link: https://noy.asia/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: NHentai #名称
+      link: https://nhentai.net/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: #介绍
 
-    - name: NHentai
-      link: https://nhentai.net/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: ISekai #名称
+      link: https://isekai.ch/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: #介绍
 
-    - name: ISekai
-      link: https://isekai.ch/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: #介绍
-
-    - name: HTManGa
-      link: https://www.htmanga.top/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: HTManGa #名称
+      link: https://www.htmanga.top/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: #介绍
       
-    - name: JMcomic
-      link: https://jmcomic.bet/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: JMcomic #名称
+      link: https://jmcomic.bet/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: #介绍
 
 - class_name: 社区论坛
   class_desc: #介绍
   link_list:
-    - name: ACGBOX
-      link: https://www.acgbox.link/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: ACG资源导航
+    - name: ACGBOX #名称
+      link: https://www.acgbox.link/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: ACG资源导航 #介绍
 
-    - name: 灵梦御所
-      link: https://blog.reimu.net/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
-      descr: 现在只在Telegram上更新
+    - name: 灵梦御所 #名称
+      link: https://blog.reimu.net/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: 现在只在Telegram上更新 #介绍
 
-    - name: 次元幻想
-      link: https://hxcy.top/
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png
+    - name: 次元幻想 #名称
+      link: https://hxcy.top/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: #介绍
