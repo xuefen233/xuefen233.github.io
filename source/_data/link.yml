@@ -76,30 +76,20 @@
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: 绘图交流平台 #介绍
 
-    - name: Awesome #名称
-      link: https://wallhaven.cc/ #链接
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
-      descr: 绘图交流平台 #介绍
-
     - name: Konachan #名称
       link: https://konachan.com/ #链接
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: 绘图交流平台 #介绍
 
-    - name: DeviantArt #名称
-      link: https://www.deviantart.com/ #链接
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
-      descr: 艺术家展示各自作品并交流讨论而设计 #介绍
-
-    - name: Wallpaper Abyss #名称
-      link: https://wall.alphacoders.com/ #链接
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
-      descr: Wallpaper and background #介绍
-      
-    - name: 动漫图片壁纸 #名称
+    - name: AnimePic #名称
       link: https://anime-pictures.net/?lang=zh_CN #链接
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: 全年龄的动漫图片和壁纸 #介绍
+      
+    - name: Hitomi #名称
+      link: https://hitomi.la/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: GalGame CG #介绍
 
 - class_name: 同人声音
   class_desc: #介绍
@@ -131,6 +121,11 @@
       link: https://tachiyomi.org/ #链接
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: 漫画软件停更 #介绍
+
+    - name: E-Hentai #名称
+      link: https://e-hentai.org/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: #介绍
 
     - name: Mihon #名称
       link: https://mihon.app/ #链接
