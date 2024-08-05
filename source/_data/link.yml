@@ -120,17 +120,17 @@
     - name: Tachiyomi #名称
       link: https://tachiyomi.org/ #链接
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
-      descr: 漫画软件停更 #介绍
-
-    - name: E-Hentai #名称
-      link: https://e-hentai.org/ #链接
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
-      descr: #介绍
+      descr: App停更 #介绍
 
     - name: Mihon #名称
       link: https://mihon.app/ #链接
       avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
       descr: Tachiyomi的精神续作 #介绍
+
+    - name: E-Hentai #名称
+      link: https://e-hentai.org/ #链接
+      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      descr: #介绍
 
     - name: NoyAcg #名称
       link: https://noy.asia/ #链接
