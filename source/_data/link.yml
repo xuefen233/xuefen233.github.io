@@ -53,7 +53,7 @@
   link_list:
     - name: Pixiv #名称
       link: https://www.pixiv.net/ #链接
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      avatar: https://s2.loli.net/2024/08/31/rUelNYoqA4uyfQi.jpg #图标
       descr: 绘图交流平台 #介绍
 
     - name: Kemono #名称
@@ -124,7 +124,7 @@
 
     - name: Mihon #名称
       link: https://mihon.app/ #链接
-      avatar: https://s2.loli.net/2024/08/05/ugLy6N42KFqxQSd.png #图标
+      avatar: https://s2.loli.net/2024/08/31/P3ojAxJlCpvDQku.png #图标
       descr: Tachiyomi的精神续作 #介绍
 
     - name: E-Hentai #名称
