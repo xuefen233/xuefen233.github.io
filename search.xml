@@ -214,4 +214,49 @@
         <tag>电脑</tag>
       </tags>
   </entry>
+  <entry>
+    <title>视频缩略图</title>
+    <url>/2024/11/29/005/</url>
+    <content><![CDATA[<h2 id="视频缩略图"><a href="#视频缩略图" class="headerlink" title="视频缩略图"></a>视频缩略图</h2><p>解决视频在资源管理器中不显示缩略图的问题</p>
+<ul>
+<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo D 部署博客出现Spawn Failed</title>
+    <url>/2024/11/29/006/</url>
+    <content><![CDATA[<h1 id="Hexo-D-部署博客出现Spawn-Failed"><a href="#Hexo-D-部署博客出现Spawn-Failed" class="headerlink" title="Hexo D 部署博客出现Spawn Failed"></a>Hexo D 部署博客出现Spawn Failed</h1><h3 id="报错信息"><a href="#报错信息" class="headerlink" title="报错信息"></a>报错信息</h3><ul>
+<li><pre><code>Error: Spawn failed
+    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)
+    at ChildProcess.emit (events.js:314:20)
+    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">### 检查ssh公钥有没有连上GitHub</span><br><span class="line"></span><br><span class="line">- ```</span><br><span class="line">  ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+</code></pre>
+</li>
+</ul>
+<p>需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</p>
+<h3 id="生成ssh公钥"><a href="#生成ssh公钥" class="headerlink" title="生成ssh公钥"></a>生成ssh公钥</h3><ul>
+<li><p>yourname是你的GitHub的账户名，youremail是你注册邮箱。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;yourname&quot;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>然后输入以下代码生成公钥,一路回车</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</p>
+</li>
+<li><p>打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去。</p>
+</li>
+<li><p>查看是否成功</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
+</ul>
+]]></content>
+  </entry>
 </search>
