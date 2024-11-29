@@ -178,6 +178,21 @@
       </tags>
   </entry>
   <entry>
+    <title>显卡DP线开机黑屏</title>
+    <url>/2024/11/26/003/</url>
+    <content><![CDATA[<h2 id="显卡DP线开机黑屏"><a href="#显卡DP线开机黑屏" class="headerlink" title="显卡DP线开机黑屏"></a>显卡DP线开机黑屏</h2><ul>
+<li><h3 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h3><p>7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。</p>
+</li>
+<li><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>更新显卡DP固件</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Windows 系统激活</title>
     <url>/2024/11/26/004/</url>
     <content><![CDATA[<h2 id="Microsoft-Activation-Scripts"><a href="#Microsoft-Activation-Scripts" class="headerlink" title="Microsoft Activation Scripts"></a>Microsoft Activation Scripts</h2><h3 id="GitHub地址"><a href="#GitHub地址" class="headerlink" title="GitHub地址"></a>GitHub地址</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">点击跳转</a></p>
@@ -194,21 +209,6 @@
 <li><p>出现 <code>successful</code> 就代表你成功了</p>
 </li>
 </ol>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>显卡DP线开机黑屏</title>
-    <url>/2024/11/26/003/</url>
-    <content><![CDATA[<h2 id="显卡DP线开机黑屏"><a href="#显卡DP线开机黑屏" class="headerlink" title="显卡DP线开机黑屏"></a>显卡DP线开机黑屏</h2><ul>
-<li><h3 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h3><p>7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。</p>
-</li>
-<li><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>更新显卡DP固件</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div></li>
-</ul>
 ]]></content>
       <tags>
         <tag>电脑</tag>
@@ -232,20 +232,27 @@
     <url>/2024/11/29/006/</url>
     <content><![CDATA[<h1 id="部署博客出现Spawn-Failed"><a href="#部署博客出现Spawn-Failed" class="headerlink" title="部署博客出现Spawn Failed"></a>部署博客出现Spawn Failed</h1><h3 id="Hexo-D"><a href="#Hexo-D" class="headerlink" title="Hexo D"></a>Hexo D</h3><ul>
 <li><p>报错信息</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:314:20)</span><br><span class="line">    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)</span><br></pre></td></tr></table></figure></li>
-</ul>
-<h3 id="检查ssh公钥有没有连上GitHub"><a href="#检查ssh公钥有没有连上GitHub" class="headerlink" title="检查ssh公钥有没有连上GitHub"></a>检查ssh公钥有没有连上GitHub</h3><ul>
-<li><pre><code>ssh -T git@github.com
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</span><br><span class="line"></span><br><span class="line">### 生成ssh公钥</span><br><span class="line"></span><br><span class="line">- yourname是你的GitHub的账户名，youremail是你注册邮箱。</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-git config --global user.name &quot;yourname&quot;
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
-git config --global user.email &quot;youremail&quot;
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">- 然后输入以下代码生成公钥,一路回车</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-ssh-keygen -t rsa -C &quot;youremail&quot;
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">  然后就可以在C/用户/“用户名”/目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</span><br><span class="line"></span><br><span class="line">- 打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去。</span><br><span class="line"></span><br><span class="line">- 查看是否成功</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-ssh -T git@github.com
-</code></pre>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:314:20)</span><br><span class="line">    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)</span><br></pre></td></tr></table></figure>
 </li>
+<li><p>检查ssh公钥有没有连上GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<p>需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</p>
+</li>
+</ul>
+<h3 id="生成ssh公钥"><a href="#生成ssh公钥" class="headerlink" title="生成ssh公钥"></a>生成ssh公钥</h3><ul>
+<li><p>yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;yourname&quot;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成公钥，一路回车</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</p>
+</li>
+<li><p>打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
 </ul>
 ]]></content>
       <tags>
