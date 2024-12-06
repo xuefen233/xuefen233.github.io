@@ -304,7 +304,7 @@
   <entry>
     <title>KOF15 八神庵</title>
     <url>/2024/12/06/008/</url>
-    <content><![CDATA[<h2 id="八神"><a href="#八神" class="headerlink" title="八神"></a>八神</h2><p>轻拳&#x2F;A&#x3D;J </p>
+    <content><![CDATA[<h2 id="技能介绍"><a href="#技能介绍" class="headerlink" title="技能介绍"></a>技能介绍</h2><h3 id="按键"><a href="#按键" class="headerlink" title="按键"></a>按键</h3><p>轻拳&#x2F;A&#x3D;J </p>
 <p>轻脚&#x2F;B&#x3D;K </p>
 <p>重拳&#x2F;C&#x3D;L </p>
 <p>重脚&#x2F;D&#x3D;U</p>
@@ -338,17 +338,21 @@
 <h3 id="顶点超杀（全角色通用）"><a href="#顶点超杀（全角色通用）" class="headerlink" title="顶点超杀（全角色通用）"></a>顶点超杀（全角色通用）</h3><ul>
 <li>诡灯<br>2426CD</li>
 </ul>
-<h2 id="连段"><a href="#连段" class="headerlink" title="连段"></a>连段</h2><h3 id="常用起手"><a href="#常用起手" class="headerlink" title="常用起手"></a>常用起手</h3><ul>
-<li>中段 5C 6A </li>
-<li>下段 2B 2A 6A</li>
-</ul>
-<h3 id="基础连段"><a href="#基础连段" class="headerlink" title="基础连段"></a>基础连段</h3><ul>
-<li><p>5C 6A 24A 24A 24A（葵花）</p>
-</li>
-<li><p>2B 5B 24A 24A 24A（葵花）</p>
-</li>
-</ul>
-<h3 id="EX暗佛连段"><a href="#EX暗佛连段" class="headerlink" title="EX暗佛连段"></a>EX暗佛连段</h3><p>26AC 626D</p>
+<h2 id="连段"><a href="#连段" class="headerlink" title="连段"></a>连段</h2><h3 id="常用起手"><a href="#常用起手" class="headerlink" title="常用起手"></a>常用起手</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>中段 5C 6A </p>
+</div>
+
+<div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>下段 2B 2A 6A</p>
+</div>
+
+<h3 id="基础连段"><a href="#基础连段" class="headerlink" title="基础连段"></a>基础连段</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>5C 6A 24A 24A 24A</p>
+</div>
+
+<div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>2B 5B 24A 24A 24A</p>
+</div>
+
+<h3 id="EX暗佛连段"><a href="#EX暗佛连段" class="headerlink" title="EX暗佛连段"></a>EX暗佛连段</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>26AC 626D</p>
+</div>
+
 <ul>
 <li>624D</li>
 <li>24A 24A 2A</li>
@@ -356,7 +360,9 @@
 <li>24A 24A 626A 2624A</li>
 <li>24AC 24A 24A 24A 24A 626A 2624A</li>
 </ul>
-<h3 id="琴月阴连段"><a href="#琴月阴连段" class="headerlink" title="琴月阴连段"></a>琴月阴连段</h3><p>624D 2426A 626D</p>
+<h3 id="琴月阴连段"><a href="#琴月阴连段" class="headerlink" title="琴月阴连段"></a>琴月阴连段</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>624D 2426A 626D</p>
+</div>
+
 <ul>
 <li>简化（指令残留的原因）<br>6A（起手结尾）24D（琴月阴）26A（烟花） 626D（爪节） </li>
 <li>24A 24A 24A </li>
