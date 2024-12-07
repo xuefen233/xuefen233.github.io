@@ -110,6 +110,130 @@
       </tags>
   </entry>
   <entry>
+    <title>显卡DP线开机黑屏</title>
+    <url>/2024/11/26/003/</url>
+    <content><![CDATA[<h2 id="显卡DP线开机黑屏"><a href="#显卡DP线开机黑屏" class="headerlink" title="显卡DP线开机黑屏"></a>显卡DP线开机黑屏</h2><ul>
+<li><h3 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h3><p>7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。</p>
+</li>
+<li><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>更新显卡DP固件</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>视频缩略图</title>
+    <url>/2024/11/29/005/</url>
+    <content><![CDATA[<h2 id="视频缩略图"><a href="#视频缩略图" class="headerlink" title="视频缩略图"></a>视频缩略图</h2><p>解决视频在资源管理器中不显示缩略图的问题</p>
+<ul>
+<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.codecguide.com/">点击跳转</a></p>
+</div></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows 系统激活</title>
+    <url>/2024/11/26/004/</url>
+    <content><![CDATA[<h2 id="Microsoft-Activation-Scripts"><a href="#Microsoft-Activation-Scripts" class="headerlink" title="Microsoft Activation Scripts"></a>Microsoft Activation Scripts</h2><h3 id="GitHub地址"><a href="#GitHub地址" class="headerlink" title="GitHub地址"></a>GitHub地址</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">点击跳转</a></p>
+</div>
+
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><ol>
+<li><p>打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）</p>
+</li>
+<li><p>复制并粘贴下面的代码，然后按 Enter 键</p>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">irm</span> https://get.activated.win | <span class="built_in">iex</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>看到激活选项选择 <code>1</code>  进行Windows的激活</p>
+</li>
+<li><p>出现 <code>successful</code> 就代表你成功了</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>设计</title>
+    <url>/2024/11/29/007/</url>
+    <content><![CDATA[<h2 id="常用"><a href="#常用" class="headerlink" title="常用"></a>常用</h2><ul>
+<li><p>FreePik</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div>
+</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<h2 id="LOGO"><a href="#LOGO" class="headerlink" title="LOGO"></a>LOGO</h2><ul>
+<li><p>SeekLogo</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div>
+</li>
+<li><p>LogoTyp</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div>
+</li>
+<li><p>WorldectorLogo</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div></li>
+</ul>
+<h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><ul>
+<li><p>100Font</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.100font.com/">点击跳转</a></p>
+</div>
+</li>
+<li><p>字体天下</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.fonts.net.cn/">点击跳转</a></p>
+</div>
+</li>
+<li><p>优品字体库</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.ypppt.com/ziti/">点击跳转</a></p>
+</div></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>部署博客出现Spawn Failed</title>
+    <url>/2024/11/29/006/</url>
+    <content><![CDATA[<h1 id="部署博客出现Spawn-Failed"><a href="#部署博客出现Spawn-Failed" class="headerlink" title="部署博客出现Spawn Failed"></a>部署博客出现Spawn Failed</h1><h3 id="Hexo-D"><a href="#Hexo-D" class="headerlink" title="Hexo D"></a>Hexo D</h3><ul>
+<li><p>报错信息</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:314:20)</span><br><span class="line">    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>检查ssh公钥有没有连上GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<p>需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</p>
+</li>
+</ul>
+<h3 id="生成ssh公钥"><a href="#生成ssh公钥" class="headerlink" title="生成ssh公钥"></a>生成ssh公钥</h3><ul>
+<li><p>yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;yourname&quot;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成公钥，一路回车</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</p>
+</li>
+<li><p>打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>标签外挂</title>
     <url>/2024/11/26/002/</url>
     <content><![CDATA[<h2 id="标签外挂是-Hexo-独有的功能，并不是标准的-Markdown-格式。"><a href="#标签外挂是-Hexo-独有的功能，并不是标准的-Markdown-格式。" class="headerlink" title="标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。"></a>标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。</h2><h3 id="空白-提示块标签"><a href="#空白-提示块标签" class="headerlink" title="空白 提示块标签"></a>空白 提示块标签</h3><div class="note modern"></div>
@@ -178,198 +302,199 @@
       </tags>
   </entry>
   <entry>
-    <title>显卡DP线开机黑屏</title>
-    <url>/2024/11/26/003/</url>
-    <content><![CDATA[<h2 id="显卡DP线开机黑屏"><a href="#显卡DP线开机黑屏" class="headerlink" title="显卡DP线开机黑屏"></a>显卡DP线开机黑屏</h2><ul>
-<li><h3 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h3><p>7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。</p>
-</li>
-<li><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>更新显卡DP固件</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Windows 系统激活</title>
-    <url>/2024/11/26/004/</url>
-    <content><![CDATA[<h2 id="Microsoft-Activation-Scripts"><a href="#Microsoft-Activation-Scripts" class="headerlink" title="Microsoft Activation Scripts"></a>Microsoft Activation Scripts</h2><h3 id="GitHub地址"><a href="#GitHub地址" class="headerlink" title="GitHub地址"></a>GitHub地址</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">点击跳转</a></p>
-</div>
-
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><ol>
-<li><p>打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）</p>
-</li>
-<li><p>复制并粘贴下面的代码，然后按 Enter 键</p>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">irm</span> https://get.activated.win | <span class="built_in">iex</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>看到激活选项选择 <code>1</code>  进行Windows的激活</p>
-</li>
-<li><p>出现 <code>successful</code> 就代表你成功了</p>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>视频缩略图</title>
-    <url>/2024/11/29/005/</url>
-    <content><![CDATA[<h2 id="视频缩略图"><a href="#视频缩略图" class="headerlink" title="视频缩略图"></a>视频缩略图</h2><p>解决视频在资源管理器中不显示缩略图的问题</p>
-<ul>
-<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.codecguide.com/">点击跳转</a></p>
-</div></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>部署博客出现Spawn Failed</title>
-    <url>/2024/11/29/006/</url>
-    <content><![CDATA[<h1 id="部署博客出现Spawn-Failed"><a href="#部署博客出现Spawn-Failed" class="headerlink" title="部署博客出现Spawn Failed"></a>部署博客出现Spawn Failed</h1><h3 id="Hexo-D"><a href="#Hexo-D" class="headerlink" title="Hexo D"></a>Hexo D</h3><ul>
-<li><p>报错信息</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:314:20)</span><br><span class="line">    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>检查ssh公钥有没有连上GitHub</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
-
-<p>需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</p>
-</li>
-</ul>
-<h3 id="生成ssh公钥"><a href="#生成ssh公钥" class="headerlink" title="生成ssh公钥"></a>生成ssh公钥</h3><ul>
-<li><p>yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;yourname&quot;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>生成公钥，一路回车</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
-
-<p>然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</p>
-</li>
-<li><p>打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>设计</title>
-    <url>/2024/11/29/007/</url>
-    <content><![CDATA[<h2 id="常用"><a href="#常用" class="headerlink" title="常用"></a>常用</h2><ul>
-<li><p>FreePik</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div>
-</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-<h2 id="LOGO"><a href="#LOGO" class="headerlink" title="LOGO"></a>LOGO</h2><ul>
-<li><p>SeekLogo</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div>
-</li>
-<li><p>LogoTyp</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div>
-</li>
-<li><p>WorldectorLogo</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div></li>
-</ul>
-<h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><ul>
-<li><p>100Font</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.100font.com/">点击跳转</a></p>
-</div>
-</li>
-<li><p>字体天下</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.fonts.net.cn/">点击跳转</a></p>
-</div>
-</li>
-<li><p>优品字体库</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.ypppt.com/ziti/">点击跳转</a></p>
-</div></li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
     <title>KOF15 八神庵</title>
     <url>/2024/12/06/008/</url>
-    <content><![CDATA[<h2 id="技能介绍"><a href="#技能介绍" class="headerlink" title="技能介绍"></a>技能介绍</h2><h3 id="按键"><a href="#按键" class="headerlink" title="按键"></a>按键</h3><p>轻拳&#x2F;A&#x3D;J </p>
-<p>轻脚&#x2F;B&#x3D;K </p>
-<p>重拳&#x2F;C&#x3D;L </p>
-<p>重脚&#x2F;D&#x3D;U</p>
-<p>闪避&#x2F;AB&#x3D;F</p>
-<p>曝气&#x2F;BC&#x3D;HSS</p>
-<p>吹飞&#x2F;CD&#x3D;N</p>
-<p>EX拳&#x2F;AC&#x3D;I</p>
-<p>EX脚&#x2F;BD&#x3D;O</p>
-<h3 id="特殊技"><a href="#特殊技" class="headerlink" title="特殊技"></a>特殊技</h3><ul>
-<li>梦弹<br>6A A</li>
-<li>轰斧阴<br>6B</li>
-<li>百合折<br>空中 4B</li>
-</ul>
-<h3 id="必杀技"><a href="#必杀技" class="headerlink" title="必杀技"></a>必杀技</h3><ul>
-<li>暗佛（发波）<br>26A 慢波<br>26C 快波<br>26AC EX波</li>
-<li>诡烧（升龙）<br>626A 轻升龙<br>626C 重升龙<br>626AC EX升龙</li>
-<li>葵花<br>24A 24A 24A<br>24C 24C 24C 不实用<br>24AC 24A 24A EX葵花</li>
-<li>琴月阴<br>624B 轻 向前冲刺<br>624D 重 向前冲刺，碰到敌人后会按头<br>624BD EX 近距离</li>
-<li>屑风<br>6246A<br>6246C<br>6246AC</li>
-<li>爪节<br>626B<br>626D<br>626BD</li>
-</ul>
-<h3 id="超杀"><a href="#超杀" class="headerlink" title="超杀"></a>超杀</h3><ul>
-<li><p>八稚女<br>626A&#x2F;C 1气<br>626AC 2气</p>
-</li>
-<li><p>豺华</p>
-<p>八稚女中 2626A&#x2F;C</p>
-</li>
-<li><p>八酝（可蓄力）<br>2426A&#x2F;C 1气<br>2626AC 2气</p>
-</li>
-</ul>
-<h3 id="顶点超杀（全角色通用）"><a href="#顶点超杀（全角色通用）" class="headerlink" title="顶点超杀（全角色通用）"></a>顶点超杀（全角色通用）</h3><ul>
-<li>诡灯<br>2426CD</li>
-</ul>
-<h2 id="连段"><a href="#连段" class="headerlink" title="连段"></a>连段</h2><h3 id="常用起手"><a href="#常用起手" class="headerlink" title="常用起手"></a>常用起手</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>中段 5C 6A </p>
+    <content><![CDATA[<h2 id="基本知识"><a href="#基本知识" class="headerlink" title="基本知识"></a>基本知识</h2><table>
+<thead>
+<tr>
+<th>名称</th>
+<th>简称</th>
+<th>对应按键</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>前</td>
+<td>6</td>
+<td>D</td>
+</tr>
+<tr>
+<td>下</td>
+<td>2</td>
+<td>S</td>
+</tr>
+<tr>
+<td>后</td>
+<td>4</td>
+<td>A</td>
+</tr>
+<tr>
+<td>跳</td>
+<td>8</td>
+<td>W</td>
+</tr>
+<tr>
+<td>轻拳</td>
+<td>A</td>
+<td>J</td>
+</tr>
+<tr>
+<td>轻脚</td>
+<td>B</td>
+<td>K</td>
+</tr>
+<tr>
+<td>重拳</td>
+<td>C</td>
+<td>L</td>
+</tr>
+<tr>
+<td>重脚</td>
+<td>D</td>
+<td>U</td>
+</tr>
+<tr>
+<td>闪避</td>
+<td>AB</td>
+<td>F</td>
+</tr>
+<tr>
+<td>爆气</td>
+<td>BC</td>
+<td>H</td>
+</tr>
+<tr>
+<td>吹飞攻击</td>
+<td>CD</td>
+<td>N</td>
+</tr>
+<tr>
+<td>EX拳</td>
+<td>AC</td>
+<td>I</td>
+</tr>
+<tr>
+<td>EX脚</td>
+<td>BD</td>
+<td>O</td>
+</tr>
+</tbody></table>
+<h2 id="技能介绍"><a href="#技能介绍" class="headerlink" title="技能介绍"></a>技能介绍</h2><div class="tabs"><div class="nav-tabs"><button type="button" class="tab active">特殊</button><button type="button" class="tab">必杀</button><button type="button" class="tab">超杀</button><button type="button" class="tab">顶点</button></div><div class="tab-contents"><div class="tab-item-content active"><h4 id="梦弹"><a href="#梦弹" class="headerlink" title="梦弹"></a>梦弹</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>6A A</p>
 </div>
 
-<div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>下段 2B 2A 6A</p>
+
+
+<h4 id="轰斧阴"><a href="#轰斧阴" class="headerlink" title="轰斧阴"></a>轰斧阴</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>6B</p>
 </div>
 
-<h3 id="基础连段"><a href="#基础连段" class="headerlink" title="基础连段"></a>基础连段</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>5C 6A 24A 24A 24A</p>
+
+
+<h4 id="百合折"><a href="#百合折" class="headerlink" title="百合折"></a>百合折</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>空中 4B</p>
+</div></div><div class="tab-item-content"><h4 id="暗佛（轻-重-EX）"><a href="#暗佛（轻-重-EX）" class="headerlink" title="暗佛（轻&#x2F;重&#x2F;EX）"></a>暗佛（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>26A</p>
 </div>
 
-<div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>2B 5B 24A 24A 24A</p>
+
+
+<h4 id="诡烧（轻-重-EX）"><a href="#诡烧（轻-重-EX）" class="headerlink" title="诡烧（轻&#x2F;重&#x2F;EX）"></a>诡烧（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>626A</p>
 </div>
 
-<h3 id="EX暗佛连段"><a href="#EX暗佛连段" class="headerlink" title="EX暗佛连段"></a>EX暗佛连段</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>26AC 626D</p>
+
+
+<h4 id="葵花（轻-重-EX）"><a href="#葵花（轻-重-EX）" class="headerlink" title="葵花（轻&#x2F;重&#x2F;EX）"></a>葵花（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>24A </p>
 </div>
 
-<ul>
-<li>624D</li>
-<li>24A 24A 2A</li>
-<li>24A 24A 626C</li>
-<li>24A 24A 626A 2624A</li>
-<li>24AC 24A 24A 24A 24A 626A 2624A</li>
-</ul>
-<h3 id="琴月阴连段"><a href="#琴月阴连段" class="headerlink" title="琴月阴连段"></a>琴月阴连段</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i><p>624D 2426A 626D</p>
+
+
+<h4 id="琴月阴（轻-重-EX）"><a href="#琴月阴（轻-重-EX）" class="headerlink" title="琴月阴（轻&#x2F;重&#x2F;EX）"></a>琴月阴（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>624D</p>
 </div>
 
-<ul>
-<li>简化（指令残留的原因）<br>6A（起手结尾）24D（琴月阴）26A（烟花） 626D（爪节） </li>
-<li>24A 24A 24A </li>
-<li>24A 24A 626C </li>
-<li>24A 24A 626A 2624A</li>
-<li>24AC 24A 24A 24A 24A 626A 2624A</li>
-</ul>
+
+
+<h4 id="屑风（轻-重-EX）"><a href="#屑风（轻-重-EX）" class="headerlink" title="屑风（轻&#x2F;重&#x2F;EX）"></a>屑风（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>6246A</p>
+</div>
+
+
+
+<h4 id="爪节（轻-重-EX）"><a href="#爪节（轻-重-EX）" class="headerlink" title="爪节（轻&#x2F;重&#x2F;EX）"></a>爪节（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>626D</p>
+</div></div><div class="tab-item-content"><h4 id="八稚女"><a href="#八稚女" class="headerlink" title="八稚女"></a>八稚女</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>626A</p>
+</div>
+
+
+
+<h4 id="豺华"><a href="#豺华" class="headerlink" title="豺华"></a>豺华</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>八稚女中 2626A</p>
+</div>
+
+
+
+<h4 id="八酝（可蓄力）"><a href="#八酝（可蓄力）" class="headerlink" title="八酝（可蓄力）"></a>八酝（可蓄力）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>2426A</p>
+</div></div><div class="tab-item-content"><h4 id="诡灯"><a href="#诡灯" class="headerlink" title="诡灯"></a>诡灯</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>2426CD</p>
+</div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>
+
+<h2 id="连段介绍"><a href="#连段介绍" class="headerlink" title="连段介绍"></a>连段介绍</h2><h3 id="基础连段"><a href="#基础连段" class="headerlink" title="基础连段"></a>基础连段</h3><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">5C</mark> <mark class="hl-label blue">6A</mark> <mark class="hl-label pink">24A</mark> <mark class="hl-label red">24A</mark> <mark class="hl-label purple">24A</mark></p>
+</div>
+
+
+
+<div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">2B</mark> <mark class="hl-label blue">5B</mark> <mark class="hl-label pink">24A</mark> <mark class="hl-label red">24A</mark> <mark class="hl-label purple">24A</mark></p>
+</div>
+
+
+
+<h3 id="EX暗佛连段"><a href="#EX暗佛连段" class="headerlink" title="EX暗佛连段"></a>EX暗佛连段</h3><div class="tabs"><div class="nav-tabs"><button type="button" class="tab active">起手</button><button type="button" class="tab">核心</button><button type="button" class="tab">变化</button></div><div class="tab-contents"><div class="tab-item-content active"><h4 id="中段起手"><a href="#中段起手" class="headerlink" title="中段起手"></a>中段起手</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">5C</mark> <mark class="hl-label blue">6A</mark></p>
+</div>
+
+
+
+<h4 id="下段起手"><a href="#下段起手" class="headerlink" title="下段起手"></a>下段起手</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">2B</mark> <mark class="hl-label blue">2A</mark> <mark class="hl-label pink">6A</mark></p>
+</div></div><div class="tab-item-content"><h4 id="暗佛-爪节"><a href="#暗佛-爪节" class="headerlink" title="暗佛+爪节"></a>暗佛+爪节</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">26AC</mark> <mark class="hl-label blue">626D</mark> </p>
+</div></div><div class="tab-item-content"><h4 id="琴月阴"><a href="#琴月阴" class="headerlink" title="琴月阴"></a>琴月阴</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">624D</mark>  </p>
+</div>
+
+
+
+<h4 id="葵花三式"><a href="#葵花三式" class="headerlink" title="葵花三式"></a>葵花三式</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24A</mark> <mark class="hl-label blue">24A</mark> <mark class="hl-label pink">24A</mark> </p>
+</div>
+
+
+
+<h4 id="葵花二式-诡烧（重升龙）"><a href="#葵花二式-诡烧（重升龙）" class="headerlink" title="葵花二式+诡烧（重升龙）"></a>葵花二式+诡烧（重升龙）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24A</mark> <mark class="hl-label blue">24A</mark> <mark class="hl-label pink">626C</mark></p>
+</div>
+
+
+
+<h4 id="葵花二式-诡烧（轻升龙）-八稚女"><a href="#葵花二式-诡烧（轻升龙）-八稚女" class="headerlink" title="葵花二式+诡烧（轻升龙）+八稚女"></a>葵花二式+诡烧（轻升龙）+八稚女</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24A</mark> <mark class="hl-label blue">24A</mark> <mark class="hl-label pink">626A</mark> <mark class="hl-label red">2624A</mark> </p>
+</div>
+
+
+
+<h4 id="EX葵花三式-葵花二式-诡烧（轻升龙）-八稚女"><a href="#EX葵花三式-葵花二式-诡烧（轻升龙）-八稚女" class="headerlink" title="EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女"></a>EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24AC</mark> <mark class="hl-label blue">24AC</mark> <mark class="hl-label pink">24AC</mark> <mark class="hl-label red">24A</mark> <mark class="hl-label purple">24A</mark> <mark class="hl-label orange">626A</mark> <mark class="hl-label green">2624A</mark></p>
+</div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>
+
+
+
+<h3 id="琴月阴连段"><a href="#琴月阴连段" class="headerlink" title="琴月阴连段"></a>琴月阴连段</h3><div class="tabs"><div class="nav-tabs"><button type="button" class="tab active">起手</button><button type="button" class="tab">核心</button><button type="button" class="tab">变化</button></div><div class="tab-contents"><div class="tab-item-content active"><h4 id="中段起手"><a href="#中段起手" class="headerlink" title="中段起手"></a>中段起手</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">5C</mark> <mark class="hl-label blue">6A</mark></p>
+</div>
+
+
+
+<h4 id="下段起手"><a href="#下段起手" class="headerlink" title="下段起手"></a>下段起手</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">2B</mark> <mark class="hl-label blue">2A</mark> <mark class="hl-label pink">6A</mark></p>
+</div></div><div class="tab-item-content"><h4 id="琴月阴-八酝-爪节"><a href="#琴月阴-八酝-爪节" class="headerlink" title="琴月阴+八酝+爪节"></a>琴月阴+八酝+爪节</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">624D</mark> <mark class="hl-label blue">2426A</mark> <mark class="hl-label pink">626D</mark></p>
+</div></div><div class="tab-item-content"><h4 id="葵花三式"><a href="#葵花三式" class="headerlink" title="葵花三式"></a>葵花三式</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24A</mark> <mark class="hl-label blue">24A</mark> <mark class="hl-label pink">24A</mark> </p>
+</div>
+
+
+
+<h4 id="葵花二式-诡烧（重升龙）"><a href="#葵花二式-诡烧（重升龙）" class="headerlink" title="葵花二式+诡烧（重升龙）"></a>葵花二式+诡烧（重升龙）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24A</mark> <mark class="hl-label blue">24A</mark> <mark class="hl-label pink">626C</mark></p>
+</div>
+
+
+
+<h4 id="葵花二式-诡烧（轻升龙）-八稚女"><a href="#葵花二式-诡烧（轻升龙）-八稚女" class="headerlink" title="葵花二式+诡烧（轻升龙）+八稚女"></a>葵花二式+诡烧（轻升龙）+八稚女</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24A</mark> <mark class="hl-label blue">24A</mark> <mark class="hl-label pink">626A</mark> <mark class="hl-label red">2624A</mark> </p>
+</div>
+
+
+
+<h4 id="EX葵花三式-葵花二式-诡烧（轻升龙）-八稚女"><a href="#EX葵花三式-葵花二式-诡烧（轻升龙）-八稚女" class="headerlink" title="EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女"></a>EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p><mark class="hl-label default">24AC</mark> <mark class="hl-label blue">24AC</mark> <mark class="hl-label pink">24AC</mark> <mark class="hl-label red">24A</mark> <mark class="hl-label purple">24A</mark> <mark class="hl-label orange">626A</mark> <mark class="hl-label green">2624A</mark></p>
+</div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div>
 ]]></content>
       <tags>
         <tag>KOF15</tag>
