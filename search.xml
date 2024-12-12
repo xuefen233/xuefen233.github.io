@@ -110,130 +110,6 @@
       </tags>
   </entry>
   <entry>
-    <title>显卡DP线开机黑屏</title>
-    <url>/2024/11/26/003/</url>
-    <content><![CDATA[<h2 id="显卡DP线开机黑屏"><a href="#显卡DP线开机黑屏" class="headerlink" title="显卡DP线开机黑屏"></a>显卡DP线开机黑屏</h2><ul>
-<li><h3 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h3><p>7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。</p>
-</li>
-<li><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>更新显卡DP固件</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>视频缩略图</title>
-    <url>/2024/11/29/005/</url>
-    <content><![CDATA[<h2 id="视频缩略图"><a href="#视频缩略图" class="headerlink" title="视频缩略图"></a>视频缩略图</h2><p>解决视频在资源管理器中不显示缩略图的问题</p>
-<ul>
-<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.codecguide.com/">点击跳转</a></p>
-</div></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Windows 系统激活</title>
-    <url>/2024/11/26/004/</url>
-    <content><![CDATA[<h2 id="Microsoft-Activation-Scripts"><a href="#Microsoft-Activation-Scripts" class="headerlink" title="Microsoft Activation Scripts"></a>Microsoft Activation Scripts</h2><h3 id="GitHub地址"><a href="#GitHub地址" class="headerlink" title="GitHub地址"></a>GitHub地址</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">点击跳转</a></p>
-</div>
-
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><ol>
-<li><p>打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）</p>
-</li>
-<li><p>复制并粘贴下面的代码，然后按 Enter 键</p>
-<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">irm</span> https://get.activated.win | <span class="built_in">iex</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>看到激活选项选择 <code>1</code>  进行Windows的激活</p>
-</li>
-<li><p>出现 <code>successful</code> 就代表你成功了</p>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>设计</title>
-    <url>/2024/11/29/007/</url>
-    <content><![CDATA[<h2 id="常用"><a href="#常用" class="headerlink" title="常用"></a>常用</h2><ul>
-<li><p>FreePik</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div>
-</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-<h2 id="LOGO"><a href="#LOGO" class="headerlink" title="LOGO"></a>LOGO</h2><ul>
-<li><p>SeekLogo</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div>
-</li>
-<li><p>LogoTyp</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div>
-</li>
-<li><p>WorldectorLogo</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
-</div></li>
-</ul>
-<h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><ul>
-<li><p>100Font</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.100font.com/">点击跳转</a></p>
-</div>
-</li>
-<li><p>字体天下</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.fonts.net.cn/">点击跳转</a></p>
-</div>
-</li>
-<li><p>优品字体库</p>
-<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.ypppt.com/ziti/">点击跳转</a></p>
-</div></li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>部署博客出现Spawn Failed</title>
-    <url>/2024/11/29/006/</url>
-    <content><![CDATA[<h1 id="部署博客出现Spawn-Failed"><a href="#部署博客出现Spawn-Failed" class="headerlink" title="部署博客出现Spawn Failed"></a>部署博客出现Spawn Failed</h1><h3 id="Hexo-D"><a href="#Hexo-D" class="headerlink" title="Hexo D"></a>Hexo D</h3><ul>
-<li><p>报错信息</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:314:20)</span><br><span class="line">    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>检查ssh公钥有没有连上GitHub</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
-
-<p>需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</p>
-</li>
-</ul>
-<h3 id="生成ssh公钥"><a href="#生成ssh公钥" class="headerlink" title="生成ssh公钥"></a>生成ssh公钥</h3><ul>
-<li><p>yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;yourname&quot;</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>生成公钥，一路回车</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
-
-<p>然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</p>
-</li>
-<li><p>打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>标签外挂</title>
     <url>/2024/11/26/002/</url>
     <content><![CDATA[<h2 id="标签外挂是-Hexo-独有的功能，并不是标准的-Markdown-格式。"><a href="#标签外挂是-Hexo-独有的功能，并不是标准的-Markdown-格式。" class="headerlink" title="标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。"></a>标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。</h2><h3 id="空白-提示块标签"><a href="#空白-提示块标签" class="headerlink" title="空白 提示块标签"></a>空白 提示块标签</h3><div class="note modern"></div>
@@ -300,6 +176,165 @@
       <tags>
         <tag>blog</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>显卡DP线开机黑屏</title>
+    <url>/2024/11/26/003/</url>
+    <content><![CDATA[<h2 id="显卡DP线开机黑屏"><a href="#显卡DP线开机黑屏" class="headerlink" title="显卡DP线开机黑屏"></a>显卡DP线开机黑屏</h2><ul>
+<li><h3 id="出现原因"><a href="#出现原因" class="headerlink" title="出现原因"></a>出现原因</h3><p>7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。</p>
+</li>
+<li><h3 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h3><p>更新显卡DP固件</p>
+<div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>点击跳转</p>
+</div></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows 系统激活</title>
+    <url>/2024/11/26/004/</url>
+    <content><![CDATA[<h2 id="Microsoft-Activation-Scripts"><a href="#Microsoft-Activation-Scripts" class="headerlink" title="Microsoft Activation Scripts"></a>Microsoft Activation Scripts</h2><h3 id="GitHub地址"><a href="#GitHub地址" class="headerlink" title="GitHub地址"></a>GitHub地址</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p>：<a href="https://github.com/massgravel/Microsoft-Activation-Scripts">点击跳转</a></p>
+</div>
+
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><ol>
+<li><p>打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）</p>
+</li>
+<li><p>复制并粘贴下面的代码，然后按 Enter 键</p>
+<figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line"><span class="built_in">irm</span> https://get.activated.win | <span class="built_in">iex</span></span><br></pre></td></tr></table></figure>
+</li>
+<li><p>看到激活选项选择 <code>1</code>  进行Windows的激活</p>
+</li>
+<li><p>出现 <code>successful</code> 就代表你成功了</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>视频缩略图</title>
+    <url>/2024/11/29/005/</url>
+    <content><![CDATA[<h2 id="视频缩略图"><a href="#视频缩略图" class="headerlink" title="视频缩略图"></a>视频缩略图</h2><p>解决视频在资源管理器中不显示缩略图的问题</p>
+<ul>
+<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.codecguide.com/">点击跳转</a></p>
+</div></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>部署博客出现Spawn Failed</title>
+    <url>/2024/11/29/006/</url>
+    <content><![CDATA[<h1 id="部署博客出现Spawn-Failed"><a href="#部署博客出现Spawn-Failed" class="headerlink" title="部署博客出现Spawn Failed"></a>部署博客出现Spawn Failed</h1><h3 id="Hexo-D"><a href="#Hexo-D" class="headerlink" title="Hexo D"></a>Hexo D</h3><ul>
+<li><p>报错信息</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (events.js:314:20)</span><br><span class="line">    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>检查ssh公钥有没有连上GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure>
+
+<p>需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.</p>
+</li>
+</ul>
+<h3 id="生成ssh公钥"><a href="#生成ssh公钥" class="headerlink" title="生成ssh公钥"></a>生成ssh公钥</h3><ul>
+<li><p>yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;yourname&quot;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成公钥，一路回车</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+
+<p>然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。</p>
+</li>
+<li><p>打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>设计</title>
+    <url>/2024/11/29/007/</url>
+    <content><![CDATA[<h2 id="常用"><a href="#常用" class="headerlink" title="常用"></a>常用</h2><ul>
+<li><p>FreePik</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.freepik.com/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>码工助手</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.gaoding.com/dianshang/zhuangxiu">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>Coolors</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://coolors.co/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>iconfont</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.iconfont.cn/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>Canva在线设计</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.canva.cn/">点击跳转</a></p>
+</div>
+
+</li>
+<li><p>即时设计</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.canva.cn/">点击跳转</a></p>
+</div>
+</li>
+<li><p>搜图导航</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.91sotu.com/">点击跳转</a></p>
+</div></li>
+</ul>
+<h2 id="LOGO"><a href="#LOGO" class="headerlink" title="LOGO"></a>LOGO</h2><ul>
+<li><p>SeekLogo</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://seeklogo.com/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>LogoTyp</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://logotyp.us/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>WorldectorLogo</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://worldvectorlogo.com/">点击跳转</a></p>
+</div></li>
+</ul>
+<h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><ul>
+<li><p>100Font</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.100font.com/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>字体天下</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.fonts.net.cn/">点击跳转</a></p>
+</div>
+
+
+</li>
+<li><p>优品字体库</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.ypppt.com/ziti/">点击跳转</a></p>
+</div></li>
+</ul>
+]]></content>
   </entry>
   <entry>
     <title>KOF15 八神庵</title>
@@ -389,7 +424,7 @@
 
 
 <h4 id="百合折"><a href="#百合折" class="headerlink" title="百合折"></a>百合折</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>空中 4B</p>
-</div></div><div class="tab-item-content"><h4 id="暗佛（轻-重-EX）"><a href="#暗佛（轻-重-EX）" class="headerlink" title="暗佛（轻&#x2F;重&#x2F;EX）"></a>暗佛（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>26A</p>
+</div></div><div class="tab-item-content"><h4 id="暗佛（轻-重-EX）"><a href="#暗佛（轻-重-EX）" class="headerlink" title="暗佛（轻&#x2F;重&#x2F;EX）"></a>暗佛（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>26A（慢波），26C（快波），26AC（近距离）</p>
 </div>
 
 
@@ -404,7 +439,7 @@
 
 
 
-<h4 id="琴月阴（轻-重-EX）"><a href="#琴月阴（轻-重-EX）" class="headerlink" title="琴月阴（轻&#x2F;重&#x2F;EX）"></a>琴月阴（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>624D</p>
+<h4 id="琴月阴（轻-重-EX）"><a href="#琴月阴（轻-重-EX）" class="headerlink" title="琴月阴（轻&#x2F;重&#x2F;EX）"></a>琴月阴（轻&#x2F;重&#x2F;EX）</h4><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i><p>626B（向前冲刺），624D（向前冲刺按头），626BD（近距离）</p>
 </div>
 
 
@@ -498,6 +533,57 @@
 ]]></content>
       <tags>
         <tag>KOF15</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows系统重装</title>
+    <url>/2024/12/12/009/</url>
+    <content><![CDATA[<h2 id="PE便携式操作系统辅助安装"><a href="#PE便携式操作系统辅助安装" class="headerlink" title="PE便携式操作系统辅助安装"></a>PE便携式操作系统辅助安装</h2><h3 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h3><ol>
+<li><p>U盘≥8G</p>
+</li>
+<li><p>微PE工具箱</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.wepe.com.cn/download.html">点击跳转</a></p>
+</div>
+</li>
+<li><p>系统镜像文件</p>
+<p>微软官方下载</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.microsoft.com/zh-cn/software-download/windows11?msockid=260d07621e216ae00b3913dc1f666b41">点击跳转</a></p>
+</div>
+
+
+<p>MSDN,我告诉你</p>
+<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://next.itellyou.cn/">点击跳转</a></p>
+</div></li>
+</ol>
+<h2 id="安装微PE"><a href="#安装微PE" class="headerlink" title="安装微PE"></a>安装微PE</h2><ol>
+<li><p>安装PE前确认U盘有没有重要资料，如果有记得拷贝出来，点击USB的图标。<br><img src="https://s2.loli.net/2024/08/06/HVUxqPQIADvMo78.png"></p>
+</li>
+<li><p>选择对应的参数，待写入U盘：选择的U盘，U盘卷标：微PE工具箱，包含DOS工具箱：勾选个性化盘符图标：建议勾选，然后立即安装到PE到U盘，等待安装完成即可。</p>
+<p><img src="https://s2.loli.net/2024/08/06/gc9AtOxDQb75Zlp.png"></p>
+</li>
+</ol>
+<h2 id="进入Bios"><a href="#进入Bios" class="headerlink" title="进入Bios"></a>进入Bios</h2><ol>
+<li>每个主板进入Bios方法不同，不知道就百度<div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.baidu.com/">点击跳转</a></p>
+</div></li>
+<li>将U盘设置为第一启动项保存后退</li>
+</ol>
+<h2 id="进入微PE系统"><a href="#进入微PE系统" class="headerlink" title="进入微PE系统"></a>进入微PE系统</h2><ol>
+<li><p>打开桌面上分区工具DisGenius</p>
+<p><img src="https://s2.loli.net/2024/08/08/VbMEJlpofjZG4dW.jpg"></p>
+</li>
+<li><p>选择待重装的硬盘右键删除所有分区</p>
+<p><img src="https://s2.loli.net/2024/08/08/BIzPGbmOSUD4RY1.png"></p>
+</li>
+<li><p>查看分区表类型，UEFI对应GPT，Legacy对应MBR，现在基本上都是UEFI引导的系统，，如果是GPT则不用更改，反之需要手动更改硬盘的分区类型，选择硬盘右键即可看到，修改完成后，保存更改。<br><img src="https://s2.loli.net/2024/08/08/ODyEWwrLHbm59JT.png"></p>
+<p><img src="https://s2.loli.net/2024/08/08/1QF8siWtGYHV2L5.png"></p>
+</li>
+<li><p>剩下步骤现在没有图片只能文字表述，选择硬盘右键找到快速分区，然后，自定分区选择你要分区的数量，系统盘建议给60-100G，然后确定。</p>
+</li>
+</ol>
+<h2 id="安装系统"><a href="#安装系统" class="headerlink" title="安装系统"></a>安装系统</h2><p>找到刚刚下载好的系统镜像文件，打开后，找到并打开Setup.exe文件，出现Windows安装程序，点击下一步，点击现在安装，选择我没有产品密钥，选择安装的操作系统，点击我接受许可条款，然后下一步，选择自定义：仅安装Windows（高级），找到总容量为100GB的系统盘下一步，等待安装成功即可。</p>
+]]></content>
+      <tags>
+        <tag>电脑</tag>
       </tags>
   </entry>
 </search>
