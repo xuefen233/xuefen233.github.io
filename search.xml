@@ -144,33 +144,33 @@
 
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note &#x27;fab fa-cc-visa&#x27; modern %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
 
-<h3 id="公告-提示块标签"><a href="#公告-提示块标签" class="headerlink" title="公告 提示块标签"></a>公告 提示块标签</h3><div class="note red icon-padding modern"><i class="note-icon fas fa-bullhorn"></i></div>
+<h3 id="公告-提示块标签"><a href="#公告-提示块标签" class="headerlink" title="公告 提示块标签"></a>公告 提示块标签</h3><div class="note red icon-padding simple"><i class="note-icon fas fa-bullhorn"></i></div>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note red &#x27;fas fa-bullhorn&#x27; modern %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note red &#x27;fas fa-bullhorn&#x27; simple %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
 
-<h3 id="汽车-提示块标签"><a href="#汽车-提示块标签" class="headerlink" title="汽车 提示块标签"></a>汽车 提示块标签</h3><div class="note pink icon-padding modern"><i class="note-icon fas fa-car-crash"></i></div>
+<h3 id="汽车-提示块标签"><a href="#汽车-提示块标签" class="headerlink" title="汽车 提示块标签"></a>汽车 提示块标签</h3><div class="note pink icon-padding simple"><i class="note-icon fas fa-car-crash"></i></div>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note pink &#x27;fas fa-car-crash&#x27; modern %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note pink &#x27;fas fa-car-crash&#x27; simple %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
 
-<h3 id="风车-提示块标签"><a href="#风车-提示块标签" class="headerlink" title="风车 提示块标签"></a>风车 提示块标签</h3><div class="note green icon-padding modern"><i class="note-icon fas fa-fan"></i></div>
+<h3 id="风车-提示块标签"><a href="#风车-提示块标签" class="headerlink" title="风车 提示块标签"></a>风车 提示块标签</h3><div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i></div>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note green &#x27;fas fa-fan&#x27; modern%&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note green &#x27;fas fa-fan&#x27; simple %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
 
-<h3 id="电池-提示块标签"><a href="#电池-提示块标签" class="headerlink" title="电池 提示块标签"></a>电池 提示块标签</h3><div class="note orange icon-padding modern"><i class="note-icon fas fa-battery-half"></i></div>
+<h3 id="电池-提示块标签"><a href="#电池-提示块标签" class="headerlink" title="电池 提示块标签"></a>电池 提示块标签</h3><div class="note orange icon-padding simple"><i class="note-icon fas fa-battery-half"></i></div>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note orange &#x27;fas fa-battery-half&#x27; modern %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
-
-
-
-<h3 id="猜拳-提示块标签"><a href="#猜拳-提示块标签" class="headerlink" title="猜拳 提示块标签"></a>猜拳 提示块标签</h3><div class="note purple icon-padding modern"><i class="note-icon far fa-hand-scissors"></i></div>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note purple &#x27;far fa-hand-scissors&#x27; modern %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note orange &#x27;fas fa-battery-half&#x27; simple %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
 
 
 
-<h3 id="浏览器-提示块标签"><a href="#浏览器-提示块标签" class="headerlink" title="浏览器 提示块标签"></a>浏览器 提示块标签</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i></div>
+<h3 id="猜拳-提示块标签"><a href="#猜拳-提示块标签" class="headerlink" title="猜拳 提示块标签"></a>猜拳 提示块标签</h3><div class="note purple icon-padding simple"><i class="note-icon far fa-hand-scissors"></i></div>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note blue &#x27;fab fa-internet-explorer&#x27; modern %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note purple &#x27;far fa-hand-scissors&#x27; simple %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="浏览器-提示块标签"><a href="#浏览器-提示块标签" class="headerlink" title="浏览器 提示块标签"></a>浏览器 提示块标签</h3><div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i></div>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% note blue &#x27;fab fa-internet-explorer&#x27; simple %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure>
 
 ]]></content>
       <tags>
@@ -219,7 +219,7 @@
     <url>/2024/11/29/005/</url>
     <content><![CDATA[<h2 id="视频缩略图"><a href="#视频缩略图" class="headerlink" title="视频缩略图"></a>视频缩略图</h2><p>解决视频在资源管理器中不显示缩略图的问题</p>
 <ul>
-<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding modern"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.codecguide.com/">点击跳转</a></p>
+<li><h3 id="Codec-Guide"><a href="#Codec-Guide" class="headerlink" title="Codec Guide"></a>Codec Guide</h3><div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.codecguide.com/">点击跳转</a></p>
 </div></li>
 </ul>
 ]]></content>
@@ -587,8 +587,10 @@
       </tags>
   </entry>
   <entry>
-    <title>10</title>
+    <title>账号鸭</title>
     <url>/2024/12/12/010/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="账号鸭"><a href="#账号鸭" class="headerlink" title="账号鸭"></a>账号鸭</h2><div class="note blue icon-padding simple"><i class="note-icon fab fa-internet-explorer"></i><p><a href="https://www.zhanghaoya.com/">点击跳转</a></p>
+</div>
+]]></content>
   </entry>
 </search>
