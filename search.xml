@@ -110,21 +110,6 @@ hexo d
       </tags>
   </entry>
   <entry>
-    <title>显卡DP线开机黑屏</title>
-    <url>/2024/11/26/003/</url>
-    <content><![CDATA[显卡DP线开机黑屏
-出现原因7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。
-
-解决方法更新显卡DP固件
-点击跳转
-
-
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>标签外挂</title>
     <url>/2024/11/26/002/</url>
     <content><![CDATA[标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。空白 提示块标签
@@ -193,6 +178,21 @@ Visa 提示块标签
       </tags>
   </entry>
   <entry>
+    <title>显卡DP线开机黑屏</title>
+    <url>/2024/11/26/003/</url>
+    <content><![CDATA[显卡DP线开机黑屏
+出现原因7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。
+
+解决方法更新显卡DP固件
+点击跳转
+
+
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Windows 系统激活</title>
     <url>/2024/11/26/004/</url>
     <content><![CDATA[Microsoft Activation ScriptsGitHub地址：点击跳转
@@ -212,6 +212,38 @@ irm https://get.activated.win | iex
 ]]></content>
       <tags>
         <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>部署博客出现Spawn Failed</title>
+    <url>/2024/11/29/006/</url>
+    <content><![CDATA[部署博客出现Spawn FailedHexo D
+报错信息
+Error: Spawn failed    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)    at ChildProcess.emit (events.js:314:20)    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+
+检查ssh公钥有没有连上GitHub
+ssh -T git@github.com
+
+需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.
+
+
+生成ssh公钥
+yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。
+git config --global user.name &quot;yourname&quot;
+
+git config --global user.email &quot;youremail&quot;
+
+生成公钥，一路回车
+ssh-keygen -t rsa -C &quot;youremail&quot;
+
+然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。
+
+打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。
+ssh -T git@github.com
+
+]]></content>
+      <tags>
+        <tag>blog</tag>
       </tags>
   </entry>
   <entry>
@@ -303,38 +335,6 @@ WorldectorLogo
 
 
 ]]></content>
-  </entry>
-  <entry>
-    <title>部署博客出现Spawn Failed</title>
-    <url>/2024/11/29/006/</url>
-    <content><![CDATA[部署博客出现Spawn FailedHexo D
-报错信息
-Error: Spawn failed    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)    at ChildProcess.emit (events.js:314:20)    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
-
-检查ssh公钥有没有连上GitHub
-ssh -T git@github.com
-
-需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.
-
-
-生成ssh公钥
-yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。
-git config --global user.name &quot;yourname&quot;
-
-git config --global user.email &quot;youremail&quot;
-
-生成公钥，一路回车
-ssh-keygen -t rsa -C &quot;youremail&quot;
-
-然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。
-
-打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。
-ssh -T git@github.com
-
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
   </entry>
   <entry>
     <title>KOF15 八神庵</title>
@@ -536,16 +536,6 @@ EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女24AC 24AC 24AC 24A 24
       </tags>
   </entry>
   <entry>
-    <title>账号鸭</title>
-    <url>/2024/12/12/010/</url>
-    <content><![CDATA[账号鸭点击跳转
-
-
-
-测试
-]]></content>
-  </entry>
-  <entry>
     <title>Windows系统重装</title>
     <url>/2024/12/12/009/</url>
     <content><![CDATA[PE便携式操作系统辅助安装准备工具
@@ -595,5 +585,15 @@ MSDN,我告诉你
       <tags>
         <tag>电脑</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>账号鸭</title>
+    <url>/2024/12/12/010/</url>
+    <content><![CDATA[账号鸭点击跳转
+
+
+
+测试
+]]></content>
   </entry>
 </search>
