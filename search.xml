@@ -110,21 +110,6 @@ hexo d
       </tags>
   </entry>
   <entry>
-    <title>显卡DP线开机黑屏</title>
-    <url>/2024/11/26/003/</url>
-    <content><![CDATA[显卡DP线开机黑屏
-出现原因7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。
-
-解决方法更新显卡DP固件
-点击跳转
-
-
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>标签外挂</title>
     <url>/2024/11/26/002/</url>
     <content><![CDATA[标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。空白 提示块标签
@@ -193,11 +178,13 @@ Visa 提示块标签
       </tags>
   </entry>
   <entry>
-    <title>视频缩略图</title>
-    <url>/2024/11/29/005/</url>
-    <content><![CDATA[视频缩略图解决视频在资源管理器中不显示缩略图的问题
+    <title>显卡DP线开机黑屏</title>
+    <url>/2024/11/26/003/</url>
+    <content><![CDATA[显卡DP线开机黑屏
+出现原因7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。
 
-Codec Guide点击跳转
+解决方法更新显卡DP固件
+点击跳转
 
 
 ]]></content>
@@ -206,20 +193,11 @@ Codec Guide点击跳转
       </tags>
   </entry>
   <entry>
-    <title>Windows 系统激活</title>
-    <url>/2024/11/26/004/</url>
-    <content><![CDATA[Microsoft Activation ScriptsGitHub地址：点击跳转
+    <title>视频缩略图</title>
+    <url>/2024/11/29/005/</url>
+    <content><![CDATA[视频缩略图解决视频在资源管理器中不显示缩略图的问题
 
-
-使用方法
-打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）
-
-复制并粘贴下面的代码，然后按 Enter 键
-irm https://get.activated.win | iex
-
-看到激活选项选择 1  进行Windows的激活
-
-出现 successful 就代表你成功了
+Codec Guide点击跳转
 
 
 ]]></content>
@@ -334,6 +312,89 @@ WorldectorLogo
 点击跳转
 
 
+]]></content>
+  </entry>
+  <entry>
+    <title>Windows 系统激活</title>
+    <url>/2024/11/26/004/</url>
+    <content><![CDATA[Microsoft Activation ScriptsGitHub地址：点击跳转
+
+
+使用方法
+打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）
+
+复制并粘贴下面的代码，然后按 Enter 键
+irm https://get.activated.win | iex
+
+看到激活选项选择 1  进行Windows的激活
+
+出现 successful 就代表你成功了
+
+
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows系统重装</title>
+    <url>/2024/12/12/009/</url>
+    <content><![CDATA[PE便携式操作系统辅助安装准备工具
+U盘≥8G
+
+微PE工具箱
+点击跳转
+
+
+系统镜像文件
+微软官方下载
+点击跳转
+
+
+
+MSDN,我告诉你
+点击跳转
+
+
+安装微PE
+安装PE前确认U盘有没有重要资料，如果有记得拷贝出来，点击USB的图标。
+
+选择对应的参数，待写入U盘：选择的U盘，U盘卷标：微PE工具箱，包含DOS工具箱：勾选个性化盘符图标：建议勾选，然后立即安装到PE到U盘，等待安装完成即可。
+
+
+
+进入Bios
+每个主板进入Bios方法不同，不知道就百度点击跳转
+
+将U盘设置为第一启动项保存后退
+
+进入微PE系统
+打开桌面上分区工具DisGenius
+
+
+选择待重装的硬盘右键删除所有分区
+
+
+查看分区表类型，UEFI对应GPT，Legacy对应MBR，现在基本上都是UEFI引导的系统，，如果是GPT则不用更改，反之需要手动更改硬盘的分区类型，选择硬盘右键即可看到，修改完成后，保存更改。
+
+
+剩下步骤现在没有图片只能文字表述，选择硬盘右键找到快速分区，然后，自定分区选择你要分区的数量，系统盘建议给60-100G，然后确定。
+
+
+安装系统找到刚刚下载好的系统镜像文件，打开后，找到并打开Setup.exe文件，出现Windows安装程序，点击下一步，点击现在安装，选择我没有产品密钥，选择安装的操作系统，点击我接受许可条款，然后下一步，选择自定义：仅安装Windows（高级），找到总容量为100GB的系统盘下一步，等待安装成功即可。
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>账号鸭</title>
+    <url>/2024/12/12/010/</url>
+    <content><![CDATA[账号鸭点击跳转
+
+
+
+测试
 ]]></content>
   </entry>
   <entry>
@@ -534,66 +595,5 @@ EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女24AC 24AC 24AC 24A 24
       <tags>
         <tag>KOF15</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Windows系统重装</title>
-    <url>/2024/12/12/009/</url>
-    <content><![CDATA[PE便携式操作系统辅助安装准备工具
-U盘≥8G
-
-微PE工具箱
-点击跳转
-
-
-系统镜像文件
-微软官方下载
-点击跳转
-
-
-
-MSDN,我告诉你
-点击跳转
-
-
-安装微PE
-安装PE前确认U盘有没有重要资料，如果有记得拷贝出来，点击USB的图标。
-
-选择对应的参数，待写入U盘：选择的U盘，U盘卷标：微PE工具箱，包含DOS工具箱：勾选个性化盘符图标：建议勾选，然后立即安装到PE到U盘，等待安装完成即可。
-
-
-
-进入Bios
-每个主板进入Bios方法不同，不知道就百度点击跳转
-
-将U盘设置为第一启动项保存后退
-
-进入微PE系统
-打开桌面上分区工具DisGenius
-
-
-选择待重装的硬盘右键删除所有分区
-
-
-查看分区表类型，UEFI对应GPT，Legacy对应MBR，现在基本上都是UEFI引导的系统，，如果是GPT则不用更改，反之需要手动更改硬盘的分区类型，选择硬盘右键即可看到，修改完成后，保存更改。
-
-
-剩下步骤现在没有图片只能文字表述，选择硬盘右键找到快速分区，然后，自定分区选择你要分区的数量，系统盘建议给60-100G，然后确定。
-
-
-安装系统找到刚刚下载好的系统镜像文件，打开后，找到并打开Setup.exe文件，出现Windows安装程序，点击下一步，点击现在安装，选择我没有产品密钥，选择安装的操作系统，点击我接受许可条款，然后下一步，选择自定义：仅安装Windows（高级），找到总容量为100GB的系统盘下一步，等待安装成功即可。
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>账号鸭</title>
-    <url>/2024/12/12/010/</url>
-    <content><![CDATA[账号鸭点击跳转
-
-
-
-测试
-]]></content>
   </entry>
 </search>
