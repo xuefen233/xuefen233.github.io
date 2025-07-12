@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>标签外挂</title>
+    <url>/2024/11/26/002/</url>
+    <content><![CDATA[标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。空白 提示块标签
+
+&#123;% note modern %&#125;&#123;% endnote %&#125;
+
+Default 提示块标签
+
+&#123;% note default modern %&#125;&#123;% endnote %&#125;
+
+Primary 提示块标签
+
+&#123;% note primary modern %&#125;&#123;% endnote %&#125;
+
+Success 提示块标签
+
+&#123;% note success modern %&#125;&#123;% endnote %&#125;
+
+info 提示块标签
+
+&#123;% note info modern %&#125;&#123;% endnote %&#125;
+
+Warning 提示块标签
+
+&#123;% note warning modern %&#125;warning 提示块标签&#123;% endnote %&#125;
+
+Danger 提示块标签
+
+&#123;% note danger modern %&#125;&#123;% endnote %&#125;
+
+Visa 提示块标签
+
+&#123;% note &#x27;fab fa-cc-visa&#x27; modern %&#125;&#123;% endnote %&#125;
+
+公告 提示块标签
+
+&#123;% note red &#x27;fas fa-bullhorn&#x27; simple %&#125;&#123;% endnote %&#125;
+
+汽车 提示块标签
+
+&#123;% note pink &#x27;fas fa-car-crash&#x27; simple %&#125;&#123;% endnote %&#125;
+
+风车 提示块标签
+
+&#123;% note green &#x27;fas fa-fan&#x27; simple %&#125;&#123;% endnote %&#125;
+
+电池 提示块标签
+
+&#123;% note orange &#x27;fas fa-battery-half&#x27; simple %&#125;&#123;% endnote %&#125;
+
+
+
+猜拳 提示块标签
+
+&#123;% note purple &#x27;far fa-hand-scissors&#x27; simple %&#125;&#123;% endnote %&#125;
+
+
+
+浏览器 提示块标签
+
+&#123;% note blue &#x27;fab fa-internet-explorer&#x27; simple %&#125;&#123;% endnote %&#125;
+
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客搭建</title>
     <url>/2024/11/25/001/</url>
     <content><![CDATA[必要组件
@@ -110,143 +178,6 @@ hexo d
       </tags>
   </entry>
   <entry>
-    <title>标签外挂</title>
-    <url>/2024/11/26/002/</url>
-    <content><![CDATA[标签外挂是 Hexo 独有的功能，并不是标准的 Markdown 格式。空白 提示块标签
-
-&#123;% note modern %&#125;&#123;% endnote %&#125;
-
-Default 提示块标签
-
-&#123;% note default modern %&#125;&#123;% endnote %&#125;
-
-Primary 提示块标签
-
-&#123;% note primary modern %&#125;&#123;% endnote %&#125;
-
-Success 提示块标签
-
-&#123;% note success modern %&#125;&#123;% endnote %&#125;
-
-info 提示块标签
-
-&#123;% note info modern %&#125;&#123;% endnote %&#125;
-
-Warning 提示块标签
-
-&#123;% note warning modern %&#125;warning 提示块标签&#123;% endnote %&#125;
-
-Danger 提示块标签
-
-&#123;% note danger modern %&#125;&#123;% endnote %&#125;
-
-Visa 提示块标签
-
-&#123;% note &#x27;fab fa-cc-visa&#x27; modern %&#125;&#123;% endnote %&#125;
-
-公告 提示块标签
-
-&#123;% note red &#x27;fas fa-bullhorn&#x27; simple %&#125;&#123;% endnote %&#125;
-
-汽车 提示块标签
-
-&#123;% note pink &#x27;fas fa-car-crash&#x27; simple %&#125;&#123;% endnote %&#125;
-
-风车 提示块标签
-
-&#123;% note green &#x27;fas fa-fan&#x27; simple %&#125;&#123;% endnote %&#125;
-
-电池 提示块标签
-
-&#123;% note orange &#x27;fas fa-battery-half&#x27; simple %&#125;&#123;% endnote %&#125;
-
-
-
-猜拳 提示块标签
-
-&#123;% note purple &#x27;far fa-hand-scissors&#x27; simple %&#125;&#123;% endnote %&#125;
-
-
-
-浏览器 提示块标签
-
-&#123;% note blue &#x27;fab fa-internet-explorer&#x27; simple %&#125;&#123;% endnote %&#125;
-
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>显卡DP线开机黑屏</title>
-    <url>/2024/11/26/003/</url>
-    <content><![CDATA[显卡DP线开机黑屏
-出现原因7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。
-
-解决方法更新显卡DP固件
-点击跳转
-
-
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Windows 系统激活</title>
-    <url>/2024/11/26/004/</url>
-    <content><![CDATA[Microsoft Activation ScriptsGitHub地址：点击跳转
-
-
-使用方法
-打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）
-
-复制并粘贴下面的代码，然后按 Enter 键
-irm https://get.activated.win | iex
-
-看到激活选项选择 1  进行Windows的激活
-
-出现 successful 就代表你成功了
-
-
-]]></content>
-      <tags>
-        <tag>电脑</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>部署博客出现Spawn Failed</title>
-    <url>/2024/11/29/006/</url>
-    <content><![CDATA[部署博客出现Spawn FailedHexo D
-报错信息
-Error: Spawn failed    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)    at ChildProcess.emit (events.js:314:20)    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
-
-检查ssh公钥有没有连上GitHub
-ssh -T git@github.com
-
-需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.
-
-
-生成ssh公钥
-yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。
-git config --global user.name &quot;yourname&quot;
-
-git config --global user.email &quot;youremail&quot;
-
-生成公钥，一路回车
-ssh-keygen -t rsa -C &quot;youremail&quot;
-
-然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。
-
-打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。
-ssh -T git@github.com
-
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>视频缩略图</title>
     <url>/2024/11/29/005/</url>
     <content><![CDATA[视频缩略图解决视频在资源管理器中不显示缩略图的问题
@@ -334,6 +265,99 @@ WorldectorLogo
 点击跳转
 
 
+]]></content>
+  </entry>
+  <entry>
+    <title>部署博客出现Spawn Failed</title>
+    <url>/2024/11/29/006/</url>
+    <content><![CDATA[部署博客出现Spawn FailedHexo D
+报错信息
+Error: Spawn failed    at ChildProcess.&lt;anonymous&gt;  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\hexo-util\lib\spawn.js:51:21)    at ChildProcess.emit (events.js:314:20)    at ChildProcess.cp.emit  (D:\StudyMaterials\8_FileManagement\testBlog\blog\node_modules\cross-spawn\lib\enoent.js:34:29)    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)
+
+检查ssh公钥有没有连上GitHub
+ssh -T git@github.com
+
+需要开代理或加速服务。开了之后再去重新生成ssh,填到你的GitHub上面去，最后网站就能正常打开了.
+
+
+生成ssh公钥
+yourname&#x3D;GitHub账户名，youremail&#x3D;注册邮箱。
+git config --global user.name &quot;yourname&quot;
+
+git config --global user.email &quot;youremail&quot;
+
+生成公钥，一路回车
+ssh-keygen -t rsa -C &quot;youremail&quot;
+
+然后就可以在C&#x2F;用户&#x2F;“用户名”&#x2F;目录下生成一个.ssh的文件，打开它，里面会有一个id_rsa.pub的文件。
+
+打开GitHub，点击settings设置界面，找到SSH and GPG keys的设置选项，点击New SSH key，把id_rsa.pub里面的内容复制进去，查看是否成功。
+ssh -T git@github.com
+
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows系统重装</title>
+    <url>/2024/12/12/009/</url>
+    <content><![CDATA[PE便携式操作系统辅助安装准备工具
+U盘≥8G
+
+微PE工具箱
+点击跳转
+
+
+系统镜像文件
+微软官方下载
+点击跳转
+
+
+
+MSDN,我告诉你
+点击跳转
+
+
+安装微PE
+安装PE前确认U盘有没有重要资料，如果有记得拷贝出来，点击USB的图标。
+
+选择对应的参数，待写入U盘：选择的U盘，U盘卷标：微PE工具箱，包含DOS工具箱：勾选个性化盘符图标：建议勾选，然后立即安装到PE到U盘，等待安装完成即可。
+
+
+
+进入Bios
+每个主板进入Bios方法不同，不知道就百度点击跳转
+
+将U盘设置为第一启动项保存后退
+
+进入微PE系统
+打开桌面上分区工具DisGenius
+
+
+选择待重装的硬盘右键删除所有分区
+
+
+查看分区表类型，UEFI对应GPT，Legacy对应MBR，现在基本上都是UEFI引导的系统，，如果是GPT则不用更改，反之需要手动更改硬盘的分区类型，选择硬盘右键即可看到，修改完成后，保存更改。
+
+
+剩下步骤现在没有图片只能文字表述，选择硬盘右键找到快速分区，然后，自定分区选择你要分区的数量，系统盘建议给60-100G，然后确定。
+
+
+安装系统找到刚刚下载好的系统镜像文件，打开后，找到并打开Setup.exe文件，出现Windows安装程序，点击下一步，点击现在安装，选择我没有产品密钥，选择安装的操作系统，点击我接受许可条款，然后下一步，选择自定义：仅安装Windows（高级），找到总容量为100GB的系统盘下一步，等待安装成功即可。
+]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>账号鸭</title>
+    <url>/2024/12/12/010/</url>
+    <content><![CDATA[账号鸭点击跳转
+
+
+
+测试
 ]]></content>
   </entry>
   <entry>
@@ -536,64 +560,40 @@ EX葵花三式+葵花二式+诡烧（轻升龙）+八稚女24AC 24AC 24AC 24A 24
       </tags>
   </entry>
   <entry>
-    <title>Windows系统重装</title>
-    <url>/2024/12/12/009/</url>
-    <content><![CDATA[PE便携式操作系统辅助安装准备工具
-U盘≥8G
-
-微PE工具箱
-点击跳转
+    <title>Windows 系统激活</title>
+    <url>/2024/11/26/004/</url>
+    <content><![CDATA[Microsoft Activation ScriptsGitHub地址：点击跳转
 
 
-系统镜像文件
-微软官方下载
-点击跳转
+使用方法
+打开PowerShell（右键开始菜单并选择终端&#x2F;终端管理员）
+
+复制并粘贴下面的代码，然后按 Enter 键
+irm https://get.activated.win | iex
+
+看到激活选项选择 1  进行Windows的激活
+
+出现 successful 就代表你成功了
 
 
-
-MSDN,我告诉你
-点击跳转
-
-
-安装微PE
-安装PE前确认U盘有没有重要资料，如果有记得拷贝出来，点击USB的图标。
-
-选择对应的参数，待写入U盘：选择的U盘，U盘卷标：微PE工具箱，包含DOS工具箱：勾选个性化盘符图标：建议勾选，然后立即安装到PE到U盘，等待安装完成即可。
-
-
-
-进入Bios
-每个主板进入Bios方法不同，不知道就百度点击跳转
-
-将U盘设置为第一启动项保存后退
-
-进入微PE系统
-打开桌面上分区工具DisGenius
-
-
-选择待重装的硬盘右键删除所有分区
-
-
-查看分区表类型，UEFI对应GPT，Legacy对应MBR，现在基本上都是UEFI引导的系统，，如果是GPT则不用更改，反之需要手动更改硬盘的分区类型，选择硬盘右键即可看到，修改完成后，保存更改。
-
-
-剩下步骤现在没有图片只能文字表述，选择硬盘右键找到快速分区，然后，自定分区选择你要分区的数量，系统盘建议给60-100G，然后确定。
-
-
-安装系统找到刚刚下载好的系统镜像文件，打开后，找到并打开Setup.exe文件，出现Windows安装程序，点击下一步，点击现在安装，选择我没有产品密钥，选择安装的操作系统，点击我接受许可条款，然后下一步，选择自定义：仅安装Windows（高级），找到总容量为100GB的系统盘下一步，等待安装成功即可。
 ]]></content>
       <tags>
         <tag>电脑</tag>
       </tags>
   </entry>
   <entry>
-    <title>账号鸭</title>
-    <url>/2024/12/12/010/</url>
-    <content><![CDATA[账号鸭点击跳转
+    <title>显卡DP线开机黑屏</title>
+    <url>/2024/11/26/003/</url>
+    <content><![CDATA[显卡DP线开机黑屏
+出现原因7系、9系、10系显卡默认DP固件版本低（最高版本1.4），插到新的显示器出现开机或进入Bios黑屏问题。
+
+解决方法更新显卡DP固件
+点击跳转
 
 
-
-测试
 ]]></content>
+      <tags>
+        <tag>电脑</tag>
+      </tags>
   </entry>
 </search>
